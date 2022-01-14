@@ -7,7 +7,7 @@ class TermsConditions extends Component {
     render() {
         return (
             <>
-                <NavbarTwo />
+                {/* <NavbarTwo />
 
                 <PageBanner 
                     pageTitle="Terms & Conditions" 
@@ -36,7 +36,7 @@ class TermsConditions extends Component {
                     </div>
                 </div>
 
-                <Footer />
+                <Footer /> */}
             </>
         );
     }

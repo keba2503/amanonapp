@@ -8,7 +8,7 @@ class PrivacyPolicy extends Component {
     render() {
         return (
             <>
-                <NavbarTwo />
+                {/* <NavbarTwo />
 
                 <PageBanner 
                     pageTitle="Privacy Policy" 
@@ -37,7 +37,7 @@ class PrivacyPolicy extends Component {
                     </div>
                 </div>
 
-                <Footer />
+                <Footer /> */}
             </>
         );
     }

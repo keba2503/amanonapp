@@ -35,7 +35,8 @@ export default class MyApp extends App {
             <>
                 <Head>
                     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-                    <title>amanon - React Next IT & Machine Learning Template</title>
+                    <meta name="description" content="Nuestra glicerina sólida para hacer jabones es una base de jabón  sin Sodio Lauril Sulfato (SLS), de pH neutro. Resulta muy fácil hacer jabones artesanales naturales y personalizados y, por otra parte, tiene beneficiosas propiedades. En Amanon tienes la glicerina blanca y la transparente en formato de 1kg. y envíos en 24 horas."></meta>
+                    <title>Amanon - Bases de jabon de glicerina - jabones artesanales - cursos de bases de jabon </title>
                 </Head>
 
                 <Component {...pageProps} />

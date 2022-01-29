@@ -5,8 +5,8 @@ class BlogThreeGrid extends Component {
     render() {
         return (
             <section className="blog-area ptb-110">
-                <div className="container">
-                    <div className="row">
+                {/* <div className="container"> */}
+                    {/* <div className="row">
                         <div className="col-lg-4 col-md-6">
                             <div className="single-blog-post">
                                 <div className="entry-thumbnail">
@@ -120,9 +120,9 @@ class BlogThreeGrid extends Component {
                                     </Link>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
 
-                        <div className="col-lg-4 col-md-6">
+                        {/* <div className="col-lg-4 col-md-6">
                             <div className="single-blog-post">
                                 <div className="entry-thumbnail">
                                     <Link href="/blog-details">
@@ -234,10 +234,10 @@ class BlogThreeGrid extends Component {
                                     </Link>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
 
                         {/* Pagination */}
-                        <div className="col-lg-12 col-sm-12">
+                        {/* <div className="col-lg-12 col-sm-12">
                             <div className="pagination-area">
                                 <Link href="/blog/#">
                                     <a className="prev page-numbers">
@@ -266,10 +266,10 @@ class BlogThreeGrid extends Component {
                                         <i className="fas fa-angle-double-right"></i>
                                     </a>
                                 </Link>
-                            </div>
-                        </div>
+                            </div> */}
+                        {/* </div>
                     </div>
-                </div>
+                </div> */}
  
                 {/* Shape Images */}
                 <div className="shape-img2">

@@ -16,14 +16,14 @@ class About extends Component {
             <>
                 <Navbar />
                 <PageBanner 
-                    pageTitle="About Us" 
+                    pageTitle="Quienes Somos" 
                     homePageUrl="/" 
-                    homePageText="Home" 
-                    activePageText="About Us" 
+                    homePageText="Inicio" 
+                    activePageText="Quienes Somos" 
                     bgImgClass="item-bg1" 
                 />  
-                {/* <AboutContact />
-                <Services />
+                <AboutContact />
+                {/* <Services />
                 <Team /> */}
                 {/* <PartnerContent /> */}
                 {/* <FeedbackSlider /> */}

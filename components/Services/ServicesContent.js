@@ -8,7 +8,7 @@ class ServicesContent extends Component {
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-4 col-sm-6">
-                            <div className="single-services-box">
+                            {/* <div className="single-services-box">
                                 <div className="icon">
                                     <i className="flaticon-income"></i>
                                 </div>
@@ -19,11 +19,11 @@ class ServicesContent extends Component {
                                     </Link>
                                 </h3>
                                 <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
-                            </div>
+                            </div> */}
                         </div>
 
                         <div className="col-lg-4 col-sm-6">
-                            <div className="single-services-box">
+                            {/* <div className="single-services-box">
                                 <div className="icon">
                                     <i className="flaticon-automatic"></i>
                                 </div>
@@ -34,11 +34,11 @@ class ServicesContent extends Component {
                                     </Link>
                                 </h3>
                                 <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
-                            </div>
+                            </div> */}
                         </div>
 
                         <div className="col-lg-4 col-sm-6">
-                            <div className="single-services-box">
+                            {/* <div className="single-services-box">
                                 <div className="icon">
                                     <i className="flaticon-locked"></i>
                                 </div>
@@ -49,11 +49,11 @@ class ServicesContent extends Component {
                                     </Link>
                                 </h3>
                                 <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
-                            </div>
+                            </div> */}
                         </div>
 
                         <div className="col-lg-4 col-sm-6">
-                            <div className="single-services-box">
+                            {/* <div className="single-services-box">
                                 <div className="icon">
                                     <i className="flaticon-molecular"></i>
                                 </div>
@@ -64,11 +64,11 @@ class ServicesContent extends Component {
                                     </Link>
                                 </h3>
                                 <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
-                            </div>
+                            </div> */}
                         </div>
 
                         <div className="col-lg-4 col-sm-6">
-                            <div className="single-services-box">
+                            {/* <div className="single-services-box">
                                 <div className="icon">
                                     <i className="flaticon-gear"></i>
                                 </div>
@@ -79,72 +79,72 @@ class ServicesContent extends Component {
                                     </Link>
                                 </h3>
                                 <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
-                            </div>
+                            </div> */}
                         </div>
 
                         <div className="col-lg-4 col-sm-6">
-                            <div className="single-services-box">
+                             {/* <div className="single-services-box">
                                 <div className="icon">
-                                    <i className="flaticon-ceo"></i>
+                                    <i className="flaticon-gear"></i>
                                 </div>
 
                                 <h3>
                                     <Link href="/service-details">
-                                        <a>IT Professionals</a>
+                                        <a>Software Engineers</a>
                                     </Link>
                                 </h3>
                                 <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
-                            </div>
+                            </div> */}
                         </div>
 
                         <div className="col-lg-4 col-sm-6">
-                            <div className="single-services-box">
+                             {/* <div className="single-services-box">
                                 <div className="icon">
-                                    <i className="fas fa-database"></i>
+                                    <i className="flaticon-gear"></i>
                                 </div>
 
                                 <h3>
                                     <Link href="/service-details">
-                                        <a>Data Visualization</a>
+                                        <a>Software Engineers</a>
                                     </Link>
                                 </h3>
                                 <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
-                            </div>
+                            </div> */}
                         </div>
 
                         <div className="col-lg-4 col-sm-6">
-                            <div className="single-services-box">
+                             {/* <div className="single-services-box">
                                 <div className="icon">
-                                    <i className="fas fa-chart-line"></i>
+                                    <i className="flaticon-gear"></i>
                                 </div>
 
                                 <h3>
                                     <Link href="/service-details">
-                                        <a>Big Data Strategy</a>
+                                        <a>Software Engineers</a>
                                     </Link>
                                 </h3>
                                 <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
-                            </div>
+                            </div> */}
                         </div>
 
                         <div className="col-lg-4 col-sm-6">
-                            <div className="single-services-box">
+                             {/* <div className="single-services-box">
                                 <div className="icon">
-                                    <i className="fas fa-project-diagram"></i>
+                                    <i className="flaticon-gear"></i>
                                 </div>
 
                                 <h3>
                                     <Link href="/service-details">
-                                        <a>Machine Learning Data </a>
+                                        <a>Software Engineers</a>
                                     </Link>
                                 </h3>
                                 <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
-                            </div>
+                            </div> */}
                         </div>
  
                         {/* Pagination */}
                         <div className="col-lg-12 col-sm-12">
-                            <div className="pagination-area">
+                            {/* <div className="pagination-area">
                                 <Link href="#">
                                     <a className="prev page-numbers">
                                         <i className="fas fa-angle-double-left"></i>
@@ -172,7 +172,7 @@ class ServicesContent extends Component {
                                         <i className="fas fa-angle-double-right"></i>
                                     </a>
                                 </Link>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                 </div>

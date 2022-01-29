@@ -12,16 +12,16 @@ class Services extends Component {
                 <Navbar />
 
                 <PageBanner 
-                    pageTitle="Services" 
+                    pageTitle="Servicios" 
                     homePageUrl="/" 
-                    homePageText="Home" 
-                    activePageText="Services" 
+                    homePageText="Inicio" 
+                    activePageText="Servicios" 
                     bgImgClass="item-bg1" 
                 />  
 
-                {/* <ServicesContent />
+                <ServicesContent />
 
-                <FeedbackSlider /> */}
+                {/* <FeedbackSlider /> */}
                 
                 <Footer />
             </>

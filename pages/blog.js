@@ -18,7 +18,7 @@ class Blog extends Component {
                     bgImgClass="item-bg2" 
                 />  
 
-                {/* <BlogThreeGrid /> */}
+                <BlogThreeGrid />
                 
                 <Footer/>
             </>

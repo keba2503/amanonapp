@@ -10,15 +10,15 @@ class Shop extends Component {
                 <Navbar/>
 
                 <PageBanner 
-                    pageTitle="Shop" 
+                    pageTitle="Tienda" 
                     homePageUrl="/" 
-                    homePageText="Home" 
-                    activePageText="Shop" 
+                    homePageText="Inicio" 
+                    activePageText="Tienda" 
                     bgImgClass="item-bg2" 
                 />  
 
-                {/* <div className="shop-area ptb-110">
-                    <div className="container">
+                <div className="shop-area ptb-110">
+                    {/* <div className="container">
                         <div className="woocommerce-topbar">
                             <div className="row align-items-center">
                                 <div className="col-lg-8 col-md-7 col-sm-6">
@@ -228,8 +228,8 @@ class Shop extends Component {
                                 </div>
                             </div>
                         </div>
-                    </div>
-                </div> */}
+                    </div> */}
+                </div>
 
                 <Footer />
             </>

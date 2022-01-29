@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import NavbarTwo from '../components/Layouts/NavbarTwo';
+import Navbar from '../components/Layouts/Navbar';
 import PageBanner from '../components/Common/PageBanner';
 import AboutContact from '../components/About/AboutContent';
 import Services from '../components/HomeOne/Services';
@@ -14,7 +14,7 @@ class About extends Component {
     render() {
         return (
             <>
-                <NavbarTwo />
+                <Navbar />
                 <PageBanner 
                     pageTitle="About Us" 
                     homePageUrl="/" 
@@ -22,13 +22,13 @@ class About extends Component {
                     activePageText="About Us" 
                     bgImgClass="item-bg1" 
                 />  
-                <AboutContact />
+                {/* <AboutContact />
                 <Services />
-                <Team />
-                <PartnerContent />
-                <FeedbackSlider />
-                <PricingCard />
-                <FreeTrialForm />
+                <Team /> */}
+                {/* <PartnerContent /> */}
+                {/* <FeedbackSlider /> */}
+                {/* <PricingCard />
+                <FreeTrialForm /> */}
                 <Footer/>
             </>
         );

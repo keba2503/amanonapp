@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import NavbarTwo from '../components/Layouts/NavbarTwo';
+import Navbar from '../components/Layouts/Navbar';
 import PageBanner from '../components/Common/PageBanner';
 import Footer from '../components/Layouts/Footer';
 
@@ -7,7 +7,7 @@ class Shop extends Component {
     render() {
         return (
             <>
-                <NavbarTwo />
+                <Navbar/>
 
                 <PageBanner 
                     pageTitle="Shop" 
@@ -17,7 +17,7 @@ class Shop extends Component {
                     bgImgClass="item-bg2" 
                 />  
 
-                <div className="shop-area ptb-110">
+                {/* <div className="shop-area ptb-110">
                     <div className="container">
                         <div className="woocommerce-topbar">
                             <div className="row align-items-center">
@@ -229,7 +229,7 @@ class Shop extends Component {
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> */}
 
                 <Footer />
             </>

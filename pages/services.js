@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import NavbarTwo from '../components/Layouts/NavbarTwo';
+import Navbar from '../components/Layouts/Navbar';
 import PageBanner from '../components/Common/PageBanner';
 import ServicesContent from '../components/Services/ServicesContent';
 import FeedbackSlider from '../components/Common/FeedbackSlider';
@@ -9,7 +9,7 @@ class Services extends Component {
     render() {
         return (
             <>
-                <NavbarTwo />
+                <Navbar />
 
                 <PageBanner 
                     pageTitle="Services" 
@@ -19,9 +19,9 @@ class Services extends Component {
                     bgImgClass="item-bg1" 
                 />  
 
-                <ServicesContent />
+                {/* <ServicesContent />
 
-                <FeedbackSlider />
+                <FeedbackSlider /> */}
                 
                 <Footer />
             </>

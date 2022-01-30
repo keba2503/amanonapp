@@ -1,5 +1,5 @@
 {
-  "name": "backend",
+  "name": "my-project",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
@@ -20,7 +20,7 @@
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "bb4e7f2d-6aee-4e29-baa5-d9fad4efecb1"
+    "uuid": "ed3a3fb5-04a3-4045-a402-b57e9f6f0550"
   },
   "engines": {
     "node": ">=12.x.x <=16.x.x",

@@ -12,6 +12,8 @@ class MyDocument extends Document {
             <Html lang="zxx">
                 <Head>
                     <link rel="icon" type="image/jpeg" href="/images/logo.png"></link>
+                    <link rel="apple-touch-icon" href="/images/logo.png"></link>
+
                 </Head>
                 <body>
                     <Main />

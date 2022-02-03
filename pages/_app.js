@@ -35,8 +35,8 @@ export default class MyApp extends App {
             <>
                 <Head>
                     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-                    <meta name="description" content="En Amanon tienes la glicerina blanca y la transparente en formato de 1kg. y envíos en 24 horas."></meta>
-                    <title>Amanon - Bases de jabon de glicerina </title>
+                    <meta name="description" content="En Amanon tienes la glicerina blanca y la transparente en formato de 1kg. y envíos en 24 horas. Jabones artesanales, cursos de bases de glicerina Peru"></meta>
+                    <title>Amanon - Bases de jabon de glicerina - Jabones Artesanales</title>
                 </Head>
 
                 <Component {...pageProps} />

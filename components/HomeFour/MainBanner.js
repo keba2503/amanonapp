@@ -33,7 +33,7 @@ const MainBanner = () => {
                 <div className="main-banner item-bg1">
                     <div className="container">
                         <div className="main-banner-content">
-                            <h1>Pagina en construcción</h1>
+                            <h1>BASES DE JABON DE GLICERINA</h1>
                             <p>Muy pronto podras disfrutar de nuestros servicios</p>
 
                             <div className="btn-box">
